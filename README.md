@@ -4,11 +4,15 @@
 <h4 align=center>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV.</h4>
 
 
-<img src="images/hacktoberfest.png" width="100%">
+<html>
+<body>
 
-<br>
+<h2> 💻🎃𝐇𝐀𝐂𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟐💻🎃</h2>
 
-<br>
+<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="W3Schools.com" style="width:900px;height:350px;">
+
+</body>
+</html>
 
 ## What is HacktoberFest🏵️?
 Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, you are invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
